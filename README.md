@@ -1,3 +1,6 @@
+Hello! I am FX!
+===============
+
 I'm responsible for all aspects of the success of Semarchy products from specification through to introducing them to the market.
 
 Previously, I was Principal Product Manager for Oracle Fusion Middleware, in charge of the data integration product portfolio and prior to Oracle, Product Manager at Sunopsis (yep, we invented ELT).
