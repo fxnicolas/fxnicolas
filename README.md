@@ -1,8 +1,10 @@
 Hello! I am FX!
 ===============
 
-I'm responsible for all aspects of the success of Semarchy products from specification through to introducing them to the market.
+I’m a Consulting Chief Product Officer who currently relishes the rare luxury of time for reading, thinking, painting, gaming, practicing Aikido, and not checking my inbox or LinkedIn.
 
-Previously, I was Principal Product Manager for Oracle Fusion Middleware, in charge of the data integration product portfolio and prior to Oracle, Product Manager at Sunopsis (yep, we invented ELT).
+My recent role was as a co-founder and Chief Product Officer at Semarchy, where I oversaw all aspects of the company’s product success, from ideation to market success.
 
-I am the in-house expert on all things at Semarchy, father of three, husband, live near Lyon, and have over 14 years of Aïkido martial arts experience and gaming.
+Before Semarchy, I served as Principal Product Manager for Oracle Fusion Middleware, responsible for the data integration product portfolio. Prior to Oracle, I was a Product Manager at Sunopsis, where we pioneered the ELT technology.
+
+I’m an avid geek, a father of three, a husband, and reside near Lyon. Additionally, I have over 15 years of experience in Aïkido martial arts and gaming.
